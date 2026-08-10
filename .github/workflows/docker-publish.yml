@@ -30,4 +30,4 @@ jobs:
           push: true
           tags: |
             zhangye2004/my-api.latest
-            zhangyeye2004/my-api:${{ github.sha }}
+            zhangye2004/my-api:${{ github.sha }}
