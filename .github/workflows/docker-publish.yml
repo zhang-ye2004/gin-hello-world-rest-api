@@ -29,5 +29,5 @@ jobs:
           context: .
           push: true
           tags: |
-            zhang-ye2004/my-api.latest
-            zhangye-ye2004/my-api:${{ github.sha }}
+            zhangye2004/my-api.latest
+            zhangyeye2004/my-api:${{ github.sha }}
